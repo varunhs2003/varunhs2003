@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Varun
+- 👋 Hi,<h1> I’m Varun</h1>
 - 👀 I’m interested in Exploring
 - 🌱 I’m currently learning Java and Microservices
 - 💞️ I’m looking to collaborate on any projects
