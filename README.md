@@ -2,9 +2,8 @@
 - 👀 I’m interested in Exploring
 - 🌱 I’m currently learning Java and Microservices
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Catch me up on <a href="https://www.linkedin.com/in/varunhs2003/">LinkedIn</a> 
+
 
 <!---
 varunhs2003/varunhs2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
