@@ -1,6 +1,6 @@
 - 👋 Hi,<h1> I’m Varun</h1>
 - 👀 I’m Exploring
-- 🌱 I’m currently learning Java and Microservices
+- 🌱 I’m Automation Developer leveraging and building with AI.
 - 💞️ I’m looking to collaborate on any projects
 - Catch me up on <a href="https://www.linkedin.com/in/varunhs2003/">LinkedIn</a> 
 
